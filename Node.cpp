@@ -2,6 +2,7 @@
 // Created by dumitru on 10.04.16.
 //
 
+#include <iostream>
 #include "Node.h"
 
 template<class T>
@@ -47,3 +48,10 @@ template<class T>
 void Node<T>::setPrevious(Node *t_node) {
     previous = t_node;
 }
+
+template<class T>
+void Node<T>::print() {
+    std::cout<<value<<" ";
+}
+
+

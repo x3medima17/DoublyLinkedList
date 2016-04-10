@@ -14,17 +14,23 @@ private:
 
 public:
     Node();
+
     Node(T t_value);
+
     T getValue();
+
     void setValue(T t_value);
+
     Node *getNext();
+
     Node *getPrevious();
-    void setNext(Node t_node);
+
     void setPrevious(Node *t_node);
 
     void setNext(Node *t_node);
-};
 
+    void print();
+};
 
 
 #endif //DOUBLYLINKEDLIST_NODE_H
