@@ -14,10 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b52bb6bb-dc6b-474f-8e89-04ec5053afe7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Node.cpp" afterPath="$PROJECT_DIR$/Node.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Node.h" afterPath="$PROJECT_DIR$/Node.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.cpp" afterPath="$PROJECT_DIR$/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DoublyLinkedList.cpp" afterPath="$PROJECT_DIR$/DoublyLinkedList.cpp" />
     </list>
     <ignored path="DoublyLinkedList.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,7 +60,7 @@
       <file leaf-file-name="DoublyLinkedList.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DoublyLinkedList.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
+            <state relative-caret-position="527">
               <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
               <folding>
                 <element signature="e#42#61#0" expanded="true" />
@@ -76,8 +73,8 @@
                 <element signature="e#1439#1448#0" expanded="true" />
                 <element signature="e#1536#1545#0" expanded="true" />
                 <element signature="e#1913#1922#0" expanded="true" />
-                <element signature="e#2194#2203#0" expanded="true" />
-                <element signature="e#2406#2415#0" expanded="true" />
+                <element signature="e#2193#2202#0" expanded="true" />
+                <element signature="e#2405#2414#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -402,7 +399,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="30" width="1368" height="739" extended-state="6" />
+    <frame x="-1" y="30" width="1368" height="739" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24597365" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -507,7 +504,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DoublyLinkedList.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
+        <state relative-caret-position="527">
           <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
           <folding>
             <element signature="e#42#61#0" expanded="true" />
@@ -520,8 +517,8 @@
             <element signature="e#1439#1448#0" expanded="true" />
             <element signature="e#1536#1545#0" expanded="true" />
             <element signature="e#1913#1922#0" expanded="true" />
-            <element signature="e#2194#2203#0" expanded="true" />
-            <element signature="e#2406#2415#0" expanded="true" />
+            <element signature="e#2193#2202#0" expanded="true" />
+            <element signature="e#2405#2414#0" expanded="true" />
           </folding>
         </state>
       </provider>

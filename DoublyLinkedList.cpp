@@ -95,7 +95,7 @@ void DoublyLinkedList<T>::popNth(size_t n) {
     --size;
 }
 
-template <class T>
+template<class T>
 T DoublyLinkedList<T>::getNth(size_t n) {
     Node<T> *cursor = head->getNext();
     for (size_t i = 0; i < n; ++i) {
