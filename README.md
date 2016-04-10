@@ -1,1 +1,1 @@
-# DoublzLinkedList
+# DoublyLinkedList
