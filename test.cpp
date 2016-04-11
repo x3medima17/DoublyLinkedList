@@ -1,7 +1,7 @@
 //
 // Created by dumitru on 11.04.16.
 //
-#define CATCH_CONFIG_MAIN  
+#define CATCH_CONFIG_MAIN
 #include "catch.hpp"
 #include "DoublyLinkedList.cpp"
 #include <vector>
