@@ -1,0 +1,23 @@
+language: cpp
+dist: trusty
+compiler:
+- g++
+os:
+- linux
+
+before_install:
+- echo $LANG
+- echo $LC_ALL
+before_script:
+- g++ -o test test.cpp 
+script: 
+  ./test
+branches:
+  only:
+  - master
+  - dev
+  - "/^v\\d+\\./"
+env:
+  global:
+  - LANG="en_US.UTF-8"
+  
