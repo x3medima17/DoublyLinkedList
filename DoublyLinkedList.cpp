@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include "DoublyLinkedList.h"
-
+#include "Node.cpp"
 
 template<class T>
 DoublyLinkedList<T>::DoublyLinkedList() {
