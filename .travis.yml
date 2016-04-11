@@ -9,7 +9,7 @@ before_install:
 - echo $LANG
 - echo $LC_ALL
 before_script:
-- g++ -o test test.cpp 
+- g++ -o test test.cpp -std=c++11 
 script: 
   ./test
 branches:
