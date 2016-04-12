@@ -1,11 +1,10 @@
 #include <iostream>
 #include "DoublyLinkedList.cpp"
 
-
 using namespace std;
 
 int main() {
-//    Node<int> a,b,c;
+
     DoublyLinkedList<int> *L = new DoublyLinkedList<int>();
 
     L->pushBack(1);
