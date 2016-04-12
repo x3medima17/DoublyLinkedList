@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/x3medima17/DoublyLinkedList.svg?branch=dev)](https://travis-ci.org/x3medima17/DoublyLinkedList)
 
 
-This is an implemetation of DoublyLinkedList, written for TGT Oil Internhip.
+This is an implemetation of DoublyLinkedList, written for TGT Oil Internship.
 The folowing 'best practices' were used.
   - Object-Oriented Programming
   - Generics
