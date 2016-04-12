@@ -1,19 +1,10 @@
 #include <iostream>
 #include "DoublyLinkedList.cpp"
-<<<<<<< HEAD
-=======
-
->>>>>>> master
 
 using namespace std;
 
 int main() {
-<<<<<<< HEAD
 
-
-=======
-//    Node<int> a,b,c;
->>>>>>> master
     DoublyLinkedList<int> *L = new DoublyLinkedList<int>();
 
     L->pushBack(1);
